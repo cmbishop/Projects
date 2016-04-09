@@ -1,2 +1,2 @@
 # Projects
-Portfolio pieces 
+Substantial apps and projects suitable for a portfolio.
