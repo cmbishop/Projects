@@ -1,0 +1,1 @@
+Todo app that utilizes jQuery for DOM manipulation over vanilla JavaScript; also a fair amount of CSS and HTML
