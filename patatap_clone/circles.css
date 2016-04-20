@@ -1,6 +1,6 @@
 canvas {
 	width: 100%;
-	height: 98%;
+	height: 96%;
 	background: black;
 }
 
@@ -13,7 +13,6 @@ div {
     text-align: center;
     color: white;
     background: black;
-    height: 100%;
     border: solid black;
     font-family: 'Poppins', sans-serif;
 }
