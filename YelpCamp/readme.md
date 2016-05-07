@@ -1,1 +1,0 @@
-A full stack JavaScript app that rates and reviews campgrounds.
