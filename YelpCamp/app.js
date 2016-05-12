@@ -9,7 +9,7 @@ var express     = require("express"),
     Campground  = require("./models/campground"),
     Comment     = require("./models/comment"),
     User        = require("./models/user"),
-    seedDB      = require("./../../../../Desktop/YelpCampDeploy/seeds")
+    seedDB      = require("./../../../../Desktop/YelpCampDeploy/seeds");
     
 //requiring routes
 var commentRoutes    = require("./routes/comments"),
